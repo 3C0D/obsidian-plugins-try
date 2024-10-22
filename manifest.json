@@ -1,6 +1,6 @@
 {
-	"id": "sample-plugin-modif",
-	"name": "Sample Plugin Modif",
+	"id": "recent-files",
+	"name": "Recent Files",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
